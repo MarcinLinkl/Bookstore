@@ -1,5 +1,5 @@
-# Biblioteczka
-> Program for easy viewing of your favorite books from your home library loaded by Autor,Tytuł,Wydawnictwo,Rok wydania from xlsx file 
+# Bookstore
+> Program in python for easy viewing of your favorite books from your home library loaded by Autor,Tytuł,Wydawnictwo,Rok wydania from xlsx file 
 > stored sql database
 > with options for geting informations from website like www.lubimyczytac.pl and also books covers downloaded from google image
 
