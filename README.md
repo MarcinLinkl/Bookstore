@@ -1,5 +1,5 @@
 # Bookstore
-> This is a Python application that allows easy viewing of your favorite books from your home library. The application loads the book details such as Author, Title, Publisher, and Year of Publication from an XLSX file stored in an SQL database. Additionally, it provides options to retrieve information from websites like www.lubimyczytac.pl and download book covers from Google Images.
+> This Python application enables effortless viewing of your favorite books from your personal home library, making them easily accessible and discoverable within your home. It retrieves book details, including Author, Title, Publisher, and Year of Publication, from an XLSX file stored in an SQL database. Moreover, it offers additional features such as gathering information from websites like www.lubimyczytac.pl and automatically downloading book covers from Google Images.
 
 
 
